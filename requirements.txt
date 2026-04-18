@@ -13,4 +13,5 @@ google-auth
 langchain-core
 langchain
 pandas
+langchain-google-genai
 langchain-groq
