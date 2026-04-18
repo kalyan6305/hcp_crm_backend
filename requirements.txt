@@ -1,0 +1,15 @@
+fastapi>=0.115.0
+uvicorn
+sqlalchemy
+mysql-connector-python
+pymysql
+cryptography
+pydantic
+pydantic-settings
+python-dotenv
+langgraph
+langchain-google-vertexai
+google-auth
+langchain-core
+langchain
+pandas
